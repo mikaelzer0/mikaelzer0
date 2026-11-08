@@ -1,26 +1,22 @@
-# Hi there! Welcome to my profile 👋
+<div align="center">
 
-**I create complete local web applications for your business or services.** Share your custom idea with me, and I will bring it to life. I back my work with **5 years of development experience** and leverage **AI tools** to build software faster and more efficiently.
+<img src="./blackhole.svg" alt="mikaelzer0" width="100%">
 
----
+### I build custom local web apps for businesses and services.
 
-### 🚀 What I Do
-* **Local Web Apps:** Tailored software built specifically to support your business or services.
-* **AI-Powered Workflow:** I actively use advanced AI tools to streamline and accelerate my coding process.
-* **Custom Development:** You provide the concept, and I handle the execution from scratch.
+Share your idea with me and I'll bring it to life: software made for your needs, running on your own PC.
 
-### 🌟 Why Work With Me?
-* **Always Available:** I am consistently available for everyone to answer questions or provide updates.
-* **Ready for Anything:** I am fully flexible and prepared to take on any task required to finish the job.
-* **Experienced:** 5 years of active software development experience.
+<a href="https://it.fiverr.com/mikaelzero"><img src="https://cdn.cookielaw.org/logos/80fa1c18-59f6-41d5-82ee-048d2f585394/9496639b-159b-460e-b012-1e50292d8104/1280px-Fiverr_logo.svg.png" alt="Fiverr" width="90"></a>
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages & Frameworks:** *(Add your specific technologies here, e.g., JavaScript, Python, React)*
-* **AI Coding Tools:** ChatGPT, Claude, GitHub Copilot *(Keep or modify based on what you actually use)*
+**What I do**
+- Local web apps tailored to your business or service
+- Automation of repetitive tasks
+- Custom development from scratch, from idea to delivery
 
----
+**How I work:** I use AI tools to build faster, and I test and review everything before delivering it.
 
-### 💬 Let's Connect!
-Have a custom idea for your business? I am ready to build it.
+**Stack:** HTML · CSS · JavaScript
