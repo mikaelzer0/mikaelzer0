@@ -17,6 +17,6 @@ Share your idea with me and I'll bring it to life: software made for your needs,
 
 **How I work:** I use AI tools to build faster, and I test and review everything before delivering it.
 
-**Stack:** HTML · CSS · JavaScript
+**Stack:** HTML · CSS · JavaScript · Py · Json
 
 <img src="./blackhole.svg" alt="mikaelzer0" width="100%">
