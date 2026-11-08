@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./blackhole.svg" alt="mikaelzer0" width="100%">
-
 ### I build custom local web apps for businesses and services.
 
 Share your idea with me and I'll bring it to life: software made for your needs, running on your own PC.
@@ -20,3 +18,5 @@ Share your idea with me and I'll bring it to life: software made for your needs,
 **How I work:** I use AI tools to build faster, and I test and review everything before delivering it.
 
 **Stack:** HTML · CSS · JavaScript
+
+<img src="./blackhole.svg" alt="mikaelzer0" width="100%">
